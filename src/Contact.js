@@ -18,7 +18,7 @@ class Contact extends Component {
               University '23
             </li>
             <li>
-            <a href="www.linkedin.com/in/svasisht2023">Shubha</a>
+            <a href="https://www.linkedin.com/in/svasisht2023/">Shubha</a>
               : Computational Biology,
               University of Pennsylvania '23
             </li>
