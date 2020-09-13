@@ -14,7 +14,7 @@ class Contact extends Component {
             </li>
             <li>
             <a href="mailto:esduong8921@gmail.com">Eileen</a>
-              : esduong8921@gmail.com, Mechanical Engineering, Boston
+              : Mechanical Engineering, Boston
               University '23
             </li>
             <li>
