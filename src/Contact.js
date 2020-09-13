@@ -8,7 +8,7 @@ class Contact extends Component {
         <p>
           <ul>
             <li>
-              Andrei: andrei.mitrofan.99@gmail.com, Bioengineering + Neuroscience,
+              Andrei: am164@rice.edu, Bioengineering + Neuroscience,
               Rice University '23
             </li>
 
