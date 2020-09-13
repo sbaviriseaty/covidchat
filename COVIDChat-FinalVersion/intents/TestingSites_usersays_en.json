@@ -1,0 +1,40 @@
+[
+  {
+    "id": "19481249-851a-4558-b3db-3bc1f8d98f8e",
+    "data": [
+      {
+        "text": "show me sites in ",
+        "userDefined": false
+      },
+      {
+        "text": "Florida",
+        "meta": "@sys.any",
+        "alias": "state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b7a79b69-817a-4353-86ca-680c86a4b3ae",
+    "data": [
+      {
+        "text": "where can I get tested in ",
+        "userDefined": false
+      },
+      {
+        "text": "Florida",
+        "meta": "@sys.any",
+        "alias": "state",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

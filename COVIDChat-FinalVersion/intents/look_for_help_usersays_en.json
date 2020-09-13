@@ -1,0 +1,239 @@
+[
+  {
+    "id": "62ed9a2d-7f77-46a7-abe1-b7f83fdbedcf",
+    "data": [
+      {
+        "text": "head hurts",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "chest",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "pains",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      },
+      {
+        "text": ", and ",
+        "userDefined": false
+      },
+      {
+        "text": "fatigued",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1594445d-ae5e-4872-9bec-f401f1198e74",
+    "data": [
+      {
+        "text": "i think i am ",
+        "userDefined": false
+      },
+      {
+        "text": "nauseous",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and i have ",
+        "userDefined": false
+      },
+      {
+        "text": "trouble breathing",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e293a00a-29d5-431d-acf1-97e413addb2c",
+    "data": [
+      {
+        "text": "i feel ",
+        "userDefined": false
+      },
+      {
+        "text": "sick",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and i have ",
+        "userDefined": false
+      },
+      {
+        "text": "chest pains",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08f143bf-c8eb-404a-8c11-73346df8a01c",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "tired",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      },
+      {
+        "text": " and my ",
+        "userDefined": false
+      },
+      {
+        "text": "head hurts",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2ff4757e-f152-4289-bab5-9c211c61d2d3",
+    "data": [
+      {
+        "text": "head hurts",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7dd863e-eee1-4855-a415-7f8c5e4ef129",
+    "data": [
+      {
+        "text": "chest pains",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e139772-da0e-4a26-864d-9d23338f25ba",
+    "data": [
+      {
+        "text": "fatigued",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e6b36fa-8d89-4e1f-ae00-e5213c461df9",
+    "data": [
+      {
+        "text": "tired",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5d652ba-c752-4668-ad58-62c12d4fed31",
+    "data": [
+      {
+        "text": "trouble breathing",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de2816ea-020f-4ea4-b73b-ac5c87bcf2ec",
+    "data": [
+      {
+        "text": "cold",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c1fdcfcf-8919-4c19-bd50-d186bddeb3e8",
+    "data": [
+      {
+        "text": "cough",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

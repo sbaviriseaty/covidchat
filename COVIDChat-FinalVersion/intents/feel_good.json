@@ -1,0 +1,55 @@
+{
+  "id": "65cf1bfe-aa26-4aa0-b04d-3801c62c462a",
+  "name": "feel_good",
+  "auto": true,
+  "contexts": [
+    "promptfeelings",
+    "nameage"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "promptsymptoms",
+          "lifespan": 5
+        },
+        {
+          "name": "feel_good-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "feel_good-followup-2",
+          "lifespan": 2
+        },
+        {
+          "name": "promptfeelings",
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I am happy to hear that, #nameage.name. Could you describe if you been experiencing any symptoms of COVID-19 recently (cough, cold, chest pains etc.)?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

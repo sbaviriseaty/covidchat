@@ -1,0 +1,223 @@
+[
+  {
+    "id": "95fcf5a3-f06a-4b23-bdbc-1ac04d6080a2",
+    "data": [
+      {
+        "text": "normal",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5a3e7469-1fca-41e8-aa1e-fbc1a5df441a",
+    "data": [
+      {
+        "text": "i feel pretty good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "49dee9d4-52ad-4a50-a7bb-9327b2462586",
+    "data": [
+      {
+        "text": "i feel ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1816ccbd-2e03-4cfa-8699-27d00d67c769",
+    "data": [
+      {
+        "text": "ok",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a7ff00de-978c-4205-b175-c64e836fb063",
+    "data": [
+      {
+        "text": "i am well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1294165a-9e2c-414d-a9ac-e363fc966ce1",
+    "data": [
+      {
+        "text": "i am fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c345e26-5f4d-4133-9d8c-9b1952ceefe8",
+    "data": [
+      {
+        "text": "i feel fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08434152-3e99-4855-af95-3e1c2f2a36eb",
+    "data": [
+      {
+        "text": "fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c84aefe3-1f93-40fa-aea0-23969884f2bf",
+    "data": [
+      {
+        "text": "great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2e930e18-a51e-4da9-a132-23dce4bea930",
+    "data": [
+      {
+        "text": "good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65b7b75a-31fc-42d3-999d-d50860aa2c74",
+    "data": [
+      {
+        "text": "i feel fantastic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "af68c7f5-74f3-4494-914f-b9a921560b82",
+    "data": [
+      {
+        "text": "i am feeling great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73a05c80-17fe-4a2b-a53a-e1313b868538",
+    "data": [
+      {
+        "text": "i am feeling good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0f692977-60e9-4c3b-9e86-d80bd9646f3f",
+    "data": [
+      {
+        "text": "i am feeling well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66c15a32-d56b-43c6-9e04-8965ee59ebfc",
+    "data": [
+      {
+        "text": "i am feeling alright",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d9bebc9-4056-4f6a-98e9-40cc3cb5415e",
+    "data": [
+      {
+        "text": "i feel good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74143cfd-d411-4901-8f04-abd49f107a14",
+    "data": [
+      {
+        "text": "i feel great",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

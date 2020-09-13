@@ -1,0 +1,126 @@
+[
+  {
+    "value": "fever",
+    "synonyms": [
+      "fever",
+      "hot"
+    ]
+  },
+  {
+    "value": "chills",
+    "synonyms": [
+      "chills",
+      "cold"
+    ]
+  },
+  {
+    "value": "shortness of breath",
+    "synonyms": [
+      "shortness of breath",
+      "can\u0027t breathe",
+      "difficulty breathing"
+    ]
+  },
+  {
+    "value": "fatigue",
+    "synonyms": [
+      "fatigue",
+      "tired"
+    ]
+  },
+  {
+    "value": "muscle aches",
+    "synonyms": [
+      "muscle aches",
+      "body hurts"
+    ]
+  },
+  {
+    "value": "body aches",
+    "synonyms": [
+      "body aches",
+      "body pains"
+    ]
+  },
+  {
+    "value": "loss of smell",
+    "synonyms": [
+      "loss of smell",
+      "can\u0027t smell anything"
+    ]
+  },
+  {
+    "value": "loss of taste",
+    "synonyms": [
+      "loss of taste",
+      "can\u0027t taste anything"
+    ]
+  },
+  {
+    "value": "sore throat",
+    "synonyms": [
+      "sore throat",
+      "throat hurts"
+    ]
+  },
+  {
+    "value": "sickness",
+    "synonyms": [
+      "sickness",
+      "sick",
+      "illness",
+      "ill"
+    ]
+  },
+  {
+    "value": "Diarrhea",
+    "synonyms": [
+      "the runs"
+    ]
+  },
+  {
+    "value": "sore throat",
+    "synonyms": [
+      "sore throat"
+    ]
+  },
+  {
+    "value": "congestion",
+    "synonyms": [
+      "congestion"
+    ]
+  },
+  {
+    "value": "runny nose",
+    "synonyms": [
+      "runny nose"
+    ]
+  },
+  {
+    "value": "nausea",
+    "synonyms": [
+      "nausea",
+      "vomitting"
+    ]
+  },
+  {
+    "value": "chest tightness",
+    "synonyms": [
+      "chest tightness",
+      "pressure in the chest"
+    ]
+  },
+  {
+    "value": "cough",
+    "synonyms": [
+      "cough",
+      "sniffles"
+    ]
+  },
+  {
+    "value": "headache",
+    "synonyms": [
+      "headache"
+    ]
+  }
+]

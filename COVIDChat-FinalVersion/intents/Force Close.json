@@ -1,0 +1,97 @@
+{
+  "id": "cd3f74fa-5235-47ef-af9b-19c94fb7895f",
+  "name": "Force Close",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "zip",
+          "lifespan": 0
+        },
+        {
+          "name": "no_contact",
+          "lifespan": 0
+        },
+        {
+          "name": "in_contact",
+          "lifespan": 0
+        },
+        {
+          "name": "nameage",
+          "lifespan": 0
+        },
+        {
+          "name": "state",
+          "lifespan": 0
+        },
+        {
+          "name": "state-followup",
+          "lifespan": 0
+        },
+        {
+          "name": "promptsymptoms",
+          "lifespan": 0
+        },
+        {
+          "name": "promptfeelings",
+          "lifespan": 0
+        },
+        {
+          "name": "feel_good-followup-2",
+          "lifespan": 0
+        },
+        {
+          "name": "feel_bad-followup",
+          "lifespan": 0
+        },
+        {
+          "name": "feeling_fine-followup",
+          "lifespan": 0
+        },
+        {
+          "name": "feel_good-followup",
+          "lifespan": 0
+        },
+        {
+          "name": "contact",
+          "lifespan": 0
+        },
+        {
+          "name": "greeted",
+          "lifespan": 0
+        },
+        {
+          "name": "name",
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you for using COVID Chat. Goodbye now"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

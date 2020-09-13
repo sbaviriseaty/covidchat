@@ -1,0 +1,46 @@
+{
+  "id": "ce88061e-9d9d-44f5-8c5f-249e33b92480",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "greeted",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi, I am Rona, your COVID-19 Care Assistant. I am here to help! Please enter your name and age to continue.",
+            "Greetings! I am Rona, your COVID-19 Care Assistant. I am here to help! Please enter your name and age to continue.",
+            "Hello! My name is Rona, and I am your COVID-19 Care Assistant. I am here to ask questions about you. Can I ask your name and age?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

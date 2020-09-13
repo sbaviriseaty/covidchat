@@ -1,0 +1,56 @@
+{
+  "id": "e492568b-167c-493f-8c28-bf50712ca950",
+  "name": "feel_fine",
+  "auto": true,
+  "contexts": [
+    "promptsymptoms",
+    "feel_good-followup-2",
+    "nameage"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "feel_good.feel_good-custom",
+      "affectedContexts": [
+        {
+          "name": "state",
+          "lifespan": 5
+        },
+        {
+          "name": "feel_good-followup-2",
+          "lifespan": 0
+        },
+        {
+          "name": "feel_good-followup",
+          "lifespan": 0
+        },
+        {
+          "name": "promptsymptoms",
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great! I am glad that you feel this way. Please continue to maintain proper social distancing guidelines per CDC Protocol.  Remember, according to the CDC, a high percentage of people #nameage.age(s) old could be asymptomatic carriers and pass the COVID-19 virus on to more vulnerable individuals. If possible, I recommend that you try to schedule a test anyways.  Can you tell me what state you live in so that I can connect you to resources in your area?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "9da27dd2-ab4a-4bf2-bfbf-2ea37076efa9",
+  "name": "no_contact_with_infected",
+  "auto": true,
+  "contexts": [
+    "contact",
+    "nameage"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "no_contact",
+          "lifespan": 0
+        },
+        {
+          "name": "nameage",
+          "lifespan": 5
+        },
+        {
+          "name": "promptfeelings",
+          "lifespan": 5
+        },
+        {
+          "name": "contact",
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ok! Thanks for telling me. So, #nameage.name... could you describe how you are feeling, please?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

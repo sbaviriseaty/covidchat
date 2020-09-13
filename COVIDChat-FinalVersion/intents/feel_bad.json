@@ -1,0 +1,66 @@
+{
+  "id": "f2559e0a-1d94-4406-b36e-09b8ca1f1e3b",
+  "name": "feel_bad",
+  "auto": true,
+  "contexts": [
+    "promptfeelings",
+    "nameage"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "promptsymptoms",
+          "lifespan": 5
+        },
+        {
+          "name": "feel_bad-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "promptfeelings",
+          "lifespan": 0
+        }
+      ],
+      "parameters": [
+        {
+          "id": "56cdb0ba-a5ef-4168-9da0-4dfd9636b3c7",
+          "name": "symptoms",
+          "required": false,
+          "dataType": "@symptoms",
+          "value": "$symptoms",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Oh no! I will try my best to help you, #nameage.name... Could you tell me a little bit more about the symptoms you are experiencing?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

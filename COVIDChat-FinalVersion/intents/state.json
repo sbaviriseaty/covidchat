@@ -1,0 +1,84 @@
+{
+  "id": "0886c0df-7c1a-4704-a920-28728fe7cf7a",
+  "name": "state",
+  "auto": true,
+  "contexts": [
+    "state"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "state",
+          "lifespan": 5
+        },
+        {
+          "name": "state-followup",
+          "lifespan": 2
+        },
+        {
+          "name": "zip",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "a6248a52-9b54-4818-aaa2-ac952b0b3cb8",
+          "name": "states",
+          "required": true,
+          "dataType": "@states",
+          "value": "$states",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Could you enter your state so that I can provide you with resources?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here are some testing sites in your state, $states. Could you enter your zipcode for more specific testing sites near you?"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "destinationName": "CDC information for $states",
+          "url": "https://www.cdc.gov/publichealthgateway/healthdirectories/healthdepartments.html",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

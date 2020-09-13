@@ -1,0 +1,73 @@
+{
+  "id": "11dccae0-e01c-4939-add5-123126152613",
+  "parentId": "f2559e0a-1d94-4406-b36e-09b8ca1f1e3b",
+  "rootParentId": "f2559e0a-1d94-4406-b36e-09b8ca1f1e3b",
+  "name": "look_for_help",
+  "auto": true,
+  "contexts": [
+    "feel_bad-followup",
+    "promptsymptoms"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "feel_bad.look_for_help",
+      "affectedContexts": [
+        {
+          "name": "state",
+          "lifespan": 5
+        },
+        {
+          "name": "promptsymptoms",
+          "lifespan": 0
+        },
+        {
+          "name": "feel_bad-followup",
+          "lifespan": 0
+        }
+      ],
+      "parameters": [
+        {
+          "id": "485c3a61-cc53-4948-80c7-4e3ee266ea65",
+          "name": "symptoms",
+          "required": true,
+          "dataType": "@symptoms",
+          "value": "$symptoms",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter your symptoms."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I understand and I am sorry that you are feeling this way. Would you please give me your state so that I am able to connect you with appropriate resources like a way to get tested for COVID-19?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

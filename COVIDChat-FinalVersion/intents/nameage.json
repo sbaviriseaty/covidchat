@@ -1,0 +1,93 @@
+{
+  "id": "82413b49-378a-49c4-9626-967b1ee22c4a",
+  "name": "nameage",
+  "auto": true,
+  "contexts": [
+    "greeted"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "nameage",
+          "lifespan": 5
+        },
+        {
+          "name": "contact",
+          "lifespan": 5
+        },
+        {
+          "name": "greeted",
+          "lifespan": 0
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cebd3e35-73f8-4dcc-9333-39cff0604fd9",
+          "name": "name",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your name?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0f8221d6-5552-4c3e-af79-37f50f2807c5",
+          "name": "age",
+          "required": true,
+          "dataType": "@sys.age",
+          "value": "$age",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How old are you?"
+            },
+            {
+              "lang": "en",
+              "value": "What is your age?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Awesome, $name! Let\u0027s continue! $name, have you been in close contact with anyone who is experiencing COVID-19 symptoms or has recently tested positive for COVID-19?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "db7a4d4a-e2d5-43db-a4a8-da26e424dd74",
+    "data": [
+      {
+        "text": "77005",
+        "meta": "@sys.zip-code",
+        "alias": "zipcode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e913ce48-b66f-4112-bdeb-01eb8e9ec26b",
+    "data": [
+      {
+        "text": "08823",
+        "meta": "@sys.zip-code",
+        "alias": "zipcode",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

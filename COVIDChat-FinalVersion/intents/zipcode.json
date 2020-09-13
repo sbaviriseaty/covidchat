@@ -1,0 +1,75 @@
+{
+  "id": "f91478ed-1bdb-423e-99dc-7326a6f76f23",
+  "parentId": "0886c0df-7c1a-4704-a920-28728fe7cf7a",
+  "rootParentId": "0886c0df-7c1a-4704-a920-28728fe7cf7a",
+  "name": "zipcode",
+  "auto": true,
+  "contexts": [
+    "state",
+    "state-followup",
+    "zip"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "state.state-custom",
+      "affectedContexts": [
+        {
+          "name": "zip",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "d69ea8a9-4380-4b63-a0df-b026468b10af",
+          "name": "zipcode",
+          "required": false,
+          "dataType": "@sys.zip-code",
+          "value": "$zipcode",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "destinationName": "Testing sites in your area",
+          "url": "https://www.google.com/search?q\u003dcovid+testing+sites+near+#zip.states+$zipcode",
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here are some testing sites near #state.states $zipcode"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

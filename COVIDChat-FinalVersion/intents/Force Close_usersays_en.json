@@ -1,0 +1,132 @@
+[
+  {
+    "id": "f724193d-1e9f-4211-9407-b3705871701d",
+    "data": [
+      {
+        "text": "farewell",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7cbdc558-432c-40e5-857e-aa9b4ea95df6",
+    "data": [
+      {
+        "text": "bye miss rona",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4184d3c1-608a-46e6-b017-6839cebff291",
+    "data": [
+      {
+        "text": "clear all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5afda179-6df7-4c0b-ab16-e73aa9b7760f",
+    "data": [
+      {
+        "text": "clear",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "12a2e1f6-ba03-47df-9ea6-bced9961c962",
+    "data": [
+      {
+        "text": "leave",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "81d33632-ac57-4695-81bf-cc69e6f56dc2",
+    "data": [
+      {
+        "text": "bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "07cadfdb-f2d0-47db-bb52-148fe6748bac",
+    "data": [
+      {
+        "text": "close",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13184c56-de21-4262-8023-075f6aec08f1",
+    "data": [
+      {
+        "text": "end",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3665b7cd-d438-487b-8b05-7721c35bdb2b",
+    "data": [
+      {
+        "text": "cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d83c3d62-d1f7-48fe-b0fb-f70be1a8f73b",
+    "data": [
+      {
+        "text": "exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

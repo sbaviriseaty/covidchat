@@ -1,0 +1,246 @@
+[
+  {
+    "id": "fa5d3838-0001-4c38-acd5-e616484b253c",
+    "data": [
+      {
+        "text": "i have a ",
+        "userDefined": false
+      },
+      {
+        "text": "fever",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cfb44f05-04e9-472e-a0fe-cb0b02a191d7",
+    "data": [
+      {
+        "text": "i have a ",
+        "userDefined": false
+      },
+      {
+        "text": "sore throat",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "diarrhea",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": true
+      },
+      {
+        "text": ", and ",
+        "userDefined": false
+      },
+      {
+        "text": "cough",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "934f441e-eefa-42f1-8e42-8e3580b5212e",
+    "data": [
+      {
+        "text": "i have a ",
+        "userDefined": false
+      },
+      {
+        "text": "cough",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      },
+      {
+        "text": ", i have a ",
+        "userDefined": false
+      },
+      {
+        "text": "sore throat",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      },
+      {
+        "text": ", my ",
+        "userDefined": false
+      },
+      {
+        "text": "head hurts",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      },
+      {
+        "text": ", and i am ",
+        "userDefined": false
+      },
+      {
+        "text": "nauseous",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9fdb0fd-21d4-4ef9-aacd-5a9b4ce7d5a1",
+    "data": [
+      {
+        "text": "I have a ",
+        "userDefined": false
+      },
+      {
+        "text": "sore throat",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2611b69-62dc-4a63-b558-cf4120f5c954",
+    "data": [
+      {
+        "text": "chest pains",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "cough",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "cold",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d73437fc-dfaf-4dd3-b5b2-c81bb4b0ad35",
+    "data": [
+      {
+        "text": "i think i am ",
+        "userDefined": false
+      },
+      {
+        "text": "ill",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bed25fc-2994-41e7-80d1-0ce56e195f98",
+    "data": [
+      {
+        "text": "i feel ",
+        "userDefined": false
+      },
+      {
+        "text": "ill",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e96a95d4-81ad-4738-a8f2-5e136fdd60b1",
+    "data": [
+      {
+        "text": "chest pains",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b462f39f-2d2c-426d-ac1c-19a4704d99a2",
+    "data": [
+      {
+        "text": "cold",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78806a2f-2dd4-4d4c-b535-e4a1a4ddcbd5",
+    "data": [
+      {
+        "text": "cough",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

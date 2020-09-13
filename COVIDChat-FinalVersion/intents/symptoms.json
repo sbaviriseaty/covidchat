@@ -1,0 +1,77 @@
+{
+  "id": "7078c541-bd80-4095-93c7-e303886fec71",
+  "parentId": "65cf1bfe-aa26-4aa0-b04d-3801c62c462a",
+  "rootParentId": "65cf1bfe-aa26-4aa0-b04d-3801c62c462a",
+  "name": "symptoms",
+  "auto": true,
+  "contexts": [
+    "promptsymptoms",
+    "feel_good-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "feel_good.feel_good-custom",
+      "affectedContexts": [
+        {
+          "name": "state",
+          "lifespan": 5
+        },
+        {
+          "name": "nameage",
+          "lifespan": 5
+        },
+        {
+          "name": "promptsymptoms",
+          "lifespan": 0
+        },
+        {
+          "name": "feel_good-followup",
+          "lifespan": 0
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0991876e-0a67-45d0-aca1-edaee5727fff",
+          "name": "symptoms",
+          "required": true,
+          "dataType": "@symptoms",
+          "value": "$symptoms",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter your symptoms"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I\u0027m sorry about the $symptoms.  Could you provide me with your state so that I am able to find you resources related to your situation and connect you possibly to COVID-19 testing sites?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

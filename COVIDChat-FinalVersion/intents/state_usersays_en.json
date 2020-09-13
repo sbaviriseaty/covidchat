@@ -1,0 +1,92 @@
+[
+  {
+    "id": "9eaa0089-2f95-4fe0-95e3-16bdf3663a8d",
+    "data": [
+      {
+        "text": "wisconsin",
+        "meta": "@states",
+        "alias": "states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e52e22b6-bb71-4145-a641-3a289b77c9e7",
+    "data": [
+      {
+        "text": "texas",
+        "meta": "@states",
+        "alias": "states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "abdd7b7d-6e0f-4a11-88f9-e5deed76e0a1",
+    "data": [
+      {
+        "text": "new york",
+        "meta": "@states",
+        "alias": "states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d3a7b40-fe25-4594-9893-c8a0f11c0374",
+    "data": [
+      {
+        "text": "florida",
+        "meta": "@states",
+        "alias": "states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "675da718-2fcf-4a97-938a-45502a0c20bf",
+    "data": [
+      {
+        "text": "california",
+        "meta": "@states",
+        "alias": "states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "13d88bff-3c85-4dd0-b14a-699ce743ca3f",
+    "data": [
+      {
+        "text": "new jersey",
+        "meta": "@states",
+        "alias": "states",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

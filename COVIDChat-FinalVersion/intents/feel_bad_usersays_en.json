@@ -1,0 +1,268 @@
+[
+  {
+    "id": "7781f469-d4e7-436c-bb91-86cd3eb26433",
+    "data": [
+      {
+        "text": "i think i am ",
+        "userDefined": false
+      },
+      {
+        "text": "sick",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97fd8049-fbae-41e7-bd56-8f9db3322f96",
+    "data": [
+      {
+        "text": "i don\u0027t feel too good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f4536288-0fc9-45a7-b603-156dfdfe3bb2",
+    "data": [
+      {
+        "text": "i feel no bueno, my dude",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a451a2a-9833-4cfc-9e19-e3d9105a2697",
+    "data": [
+      {
+        "text": "not good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6bc156f4-a294-41dc-95d9-4eeda86c017e",
+    "data": [
+      {
+        "text": "bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8fa33f5-3594-481d-a5d3-22069cb36958",
+    "data": [
+      {
+        "text": "exhausted",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4cc90e3a-38ab-43ac-9e45-4d5ca6cf0af0",
+    "data": [
+      {
+        "text": "tired",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "729cd30e-534f-4ed2-a377-e0b2cb6e40f5",
+    "data": [
+      {
+        "text": "i don\u0027t feel well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6b729cf-1961-48fa-aefa-4ae8a0805c82",
+    "data": [
+      {
+        "text": "i don\u0027t feel good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "062668ba-62c0-4491-85ce-98044d40adaf",
+    "data": [
+      {
+        "text": "i feel weak",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d7ec439-4c29-4596-8a9a-73cec10c442e",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "dizzy",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ae83c14-fe0d-41e9-a8bb-310bcd8a9324",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "nauseous",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82c44809-1bda-4f6d-8fd1-fa8ceac76f77",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "tired",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0c73d8c-4b8c-4d62-a6cd-691a8352fa75",
+    "data": [
+      {
+        "text": "i am not well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4b87249-f149-42c2-b9ec-3f4844ad13f5",
+    "data": [
+      {
+        "text": "i feel poorly",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1ddeacd3-f574-4bb4-a05d-aba5187cb8cc",
+    "data": [
+      {
+        "text": "i do not feel well",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bc4dd457-4c8d-4179-8e77-d97bfc31573a",
+    "data": [
+      {
+        "text": "i feel bad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79490f22-57d9-458a-bbb7-3b55b369a3be",
+    "data": [
+      {
+        "text": "i feel ",
+        "userDefined": false
+      },
+      {
+        "text": "sick",
+        "meta": "@symptoms",
+        "alias": "symptoms",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
