@@ -1,68 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# COVID Chat!
 
-## Available Scripts
+COVID Chat was created by 4 first time hackathon-goers, Sruthika Baviriseaty, Eileen Duong, Andrei Mitrofan, and Shubha Vasisht for PennApps 2020. This project was worked on remotely from Tampa, Florida; Los Angeles, California; Houston, Texas; and Princeton, New Jersey over the course of three days.
 
-In the project directory, you can run:
+The concept behind the hack was to increase awareness of general information and resources for the COVID-19 virus that has significantly impacted everyone’s lives. In the midst of current events, there are several sources of misinformation that lead to fear-mongering, distrust, and apathy. We wanted to develop a resource that could direct users to credible sources and sites that could improve understanding and if necessary, prompt action.
 
-### `yarn start`
+The COVID chat was created primarily with the Google Dialogflow interface and integrated with Kummunicate.io  to enhance usability and functionality. The chatbot was then embedded into a  webpage that was written in HTML and JSS, which was then published through the Heroku platform.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The chat box application is initiated when a user opens the chatbot window. The chatbot greets the user and prompts them for input. This starts conversation between the user and chat bot, with each user input, prompting follow up questions from the bot. Using both linear and non-linear dialogue, the chatbot iterates through a series of Intents and actions, that allows for a natural, uninterrupted conversation.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+A key part of our project was the user interaction. There are several different ways to answer a simple question, varying with phrasing, syntax, and slang. Using aspects of Machine Learning and Artificial Intelligence from Dialogflow, the chat bot learns to respond and react to the different ways a user may answer a question and Kommunicate.io allows the program to proceed and execute the tasks accordingly.
 
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+The concept of a chatbot can be applied beyond just this pandemic. While the scope of our project focuses on COVID-19, the idea behind it can be used in healthcare, by health care professionals, to efficiently diagnose or evaluate patients virtually. The concept can be optimized for televisits as a medium for pre-diagnosis and can be extended to store patients’ data. This is especially beneficial for increasing healthcare access as it  eliminates the need for mobility, allowing more people to receive care.
